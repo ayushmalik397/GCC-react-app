@@ -1,3 +1,11 @@
+#GCC-React App
+
+## Steps to run the application
+
+### `npm-install`
+
+To download all the project dependencies
+
 ### `npm start`
 
 Runs the app in the development mode.\
